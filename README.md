@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYSS1204)](https://github.com/Aqamoe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqamoe)](https://github.com/Aqamoe/github-readme-stats)
 <!--
 **Aqamoe/Aqamoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
